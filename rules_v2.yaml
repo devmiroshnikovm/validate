@@ -1,0 +1,21 @@
+device_validation_rules:
+      Description: "any_value"
+
+interfaces_validation_rules:
+      # null - проверки нет
+      # value - проверка выполняется на строгое соответствие значению
+      # any_value - значение должно быть заполнено любыми данными, но не быть null
+      c0p1:
+        type:
+          label: "any_value"
+          value: "any_value"
+        parent: null
+        lag: null
+        mtu: null
+        mode: null
+        ip_addresses:
+          address: null
+        vrf: null
+        tagged_vlans: null
+        custom_fields:
+          netplan_type: null
