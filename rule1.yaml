@@ -1,7 +1,7 @@
 device_validation_rules:
       Description: "any_value"
 
-validation_rules:
+interfaces_validation_rules:
       # null - проверки нет
       # value - проверка выполняется на строгое соответствие значению
       # any_value - значение должно быть заполнено любыми данными, но не быть null
