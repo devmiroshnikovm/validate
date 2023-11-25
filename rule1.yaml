@@ -1,5 +1,5 @@
 device_validation_rules:
-      AS: "4237321001" 
+      AS: "any_value" 
       FQDN: "any_value"
 
 interfaces_validation_rules:
