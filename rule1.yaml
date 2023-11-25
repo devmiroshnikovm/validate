@@ -1,6 +1,6 @@
 device_validation_rules:
-      AS: "any_value1" 
-      FQDN: "any_value1"
+      AS: "4237321001" 
+      FQDN: "any_value"
 
 interfaces_validation_rules:
       # null - проверки нет
