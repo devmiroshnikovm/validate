@@ -8,7 +8,7 @@ interfaces_validation_rules:
       # any_value - значение должно быть заполнено любыми данными, но не быть null
       c0p1:
         type:
-          label: "c0p11"
+          label: "c0p1"
           value: "any_value"
         parent: null
         lag: null
