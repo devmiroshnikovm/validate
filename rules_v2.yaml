@@ -1,26 +1,7 @@
 {
-  "device_validation_rules": {
-    "AS": "any_value",
-    "FQDN": "any_value"
-  },
-  "interfaces_validation_rules": {
-    "c0p1": {
-      "type": {
-        "label": "SFP+ (10GE)",
-        "value": "any_value"
-      },
-      "parent": null,
-      "lag": null,
-      "mtu": null,
-      "mode": null,
-      "ip_addresses": {
-        "address": null
-      },
-      "vrf": null,
-      "tagged_vlans": null,
-      "custom_fields": {
-        "netplan_type": null
+     "http://example.org/about": {
+         "http://purl.org/dc/terms/title": [
+             {"type": "literal", "value": "Anna's Homepage"}
+          ]
       }
-    }
-  }
 }
