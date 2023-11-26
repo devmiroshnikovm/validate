@@ -1,3 +1,4 @@
+---
 device_validation_rules:
       AS: "any_value" 
       FQDN: "any_value"
