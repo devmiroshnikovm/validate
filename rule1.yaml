@@ -9,7 +9,7 @@ interfaces_validation_rules:
       # any_value - значение должно быть заполнено любыми данными, но не быть null
       c0p1:
         type:
-          label: "SFP+ (10GE)5"
+          label: "SFP+ (10GE)"
           value: "any_value"
         parent: null
         lag: null
