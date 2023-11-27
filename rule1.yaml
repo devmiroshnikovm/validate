@@ -10,7 +10,7 @@ interfaces_validation_rules:
       c0p1:
         type:
           label: "SFP28 (25GE)"
-          value: "any_value"
+          value: "25gbase-x-sfp28"
         parent: null
         lag: null
         mtu: null
