@@ -9,7 +9,7 @@ interfaces_validation_rules:
       # any_value - значение должно быть заполнено любыми данными, но не быть null
       c0p1:
         type:
-          label: "SFP28 (25GE)"
+          label: "SFP28 (25GE)val"
           value: "25gbase-x-sfp28"
         parent: null
         lag: null
